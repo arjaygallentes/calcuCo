@@ -15,14 +15,6 @@ The shell mode uses the `terminal` package provided by [`golang.org/x/crypto/ssh
 2
 > 3(5/(3-4))
 -15
-> 3pi^2
-29.608813203268074
-> @+1
-30.608813203268074
-> @@@*2
--30
-> ln(-1)
-NaN
 ```
 
 ### Supported functions, operators, and constants
