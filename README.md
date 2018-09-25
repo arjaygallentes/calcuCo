@@ -1,8 +1,11 @@
-## CalcuCo
 
-### Install
+# CalcuCo
 
-### Usage
+[![Build Status](https://travis-ci.org/arjaygallentes/calcuCo.svg?branch=master)](https://travis-ci.org/arjaygallentes/calcuCo)
+
+## Install
+
+## Usage
 
 You can use the application in two ways: Shell mode or API
 
